@@ -6,4 +6,4 @@ This app is a front end that allows users to search all NFTs within a collection
 
 it was styled using tailwind CSS, and created using 'npx create-next-app -e with tailwindcss'
 
-99% of this code is stolen -- however I did infact type everything. lol
+most of this code is stolen
